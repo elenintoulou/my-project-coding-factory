@@ -7,5 +7,9 @@ package gr.aueb.cf.helloapp;
  * how to push to Github.
  */
 public class HelloWorld {
+
+    public static void main(String[] args) {
+
+    }
 }
 
